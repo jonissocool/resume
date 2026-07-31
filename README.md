@@ -1,1 +1,12 @@
-# resume
+# Resume
+
+### Education
+
+
+### Experience
+
+
+### Skills
+
+
+### Projects
